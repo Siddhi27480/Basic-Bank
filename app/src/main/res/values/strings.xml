@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Basic Bank</string>
+    <string-array name="receivers">
+        <item>Select</item>
+        <item>Khushi Singh</item>
+        <item>Aayushi Shah</item>
+        <item>Om Dhuri</item>
+        <item>Saish Tawade</item>
+        <item>Tian Almeda</item>
+        <item>Swaie Shinde</item>
+        <item>Ziya Asar</item>
+        <item>Shantanu</item>
+        <item>Sakhi Rao</item>
+        <item>Subodh Roy</item>
+    </string-array>
+</resources>
